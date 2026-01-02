@@ -4,8 +4,6 @@
 **Retail Sales SQL Analysis** is a beginner-to-intermediate SQL project designed to showcase essential data analysis skills using transactional retail data.  
 The project demonstrates how SQL can be used to clean data, explore patterns, and answer real-world business questions relevant to sales and customer behavior.
 
-This project is suitable for aspiring **Data Analysts / Business Analysts** who want to build a strong foundation in SQL-based analytics.
-
 ---
 
 ## 🎯 Objectives
